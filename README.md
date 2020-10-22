@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Alex-kku/Lab_02_2020.svg?branch=wp%2Flab)](https://travis-ci.org/Alex-kku/Lab_02_2020)
+
 # Лабораторная работа №2
 
 В большинстве современных ПК используется следующая иерархия памяти:
